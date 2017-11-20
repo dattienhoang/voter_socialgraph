@@ -1,0 +1,99 @@
+prim_id,unique identifier
+la1,Very Frequent Voter
+la3,Frequent Voter
+voted_03_05_2013,Voted in 2013 Municipal Primary Election
+voted_05_21_2013,Voted in 2013 Municipal General Election
+voted_06_07_2016,Voted in 2016 Presidential Primary
+age,Age
+ethnic,"Ethnicity, inferred from last name:
+A ARMENIAN
+B PERSIAN
+C CHINESE
+D PACIFIC ISLANDER
+E EAST INDIAN
+F FILIPINO
+G GREEK
+H JEWISH 2
+I ITALIAN
+J JEWISH
+K KOREAN
+L SOUTHEAST ASIAN (CAMBODIAN/THAI/HMONG)
+M ASIAN/ANGLO
+N JAPANESE
+O ARABIC
+P PORTUGUESE
+R RUSSIAN/SOVIET
+S LATINO (HISPANIC/SPANISH)
+T MISC. ASIAN BORN (BURMA, INDONESIA, ETC.)
+U CHINESE/KOREAN/VIETNAMESE
+V VIETNAMESE
+W CHINESE/KOREAN
+X GENERIC
+Y MIXED
+Z CHINESE/VIETNAMESE"
+sex,Gender
+demplus,"Democrats, voters who were previously registered Democrat and not currently registered Republican, as well as voters who have donated to Democrats/Democratic Committees and are not registered Republican, plus any voter requested a Democratic ballot in a prior primary election cycle."
+repplus,"Republicans, voters who were previously registered Republican and not currently registered Democrat, as well as voters who have donated to Republicans / Republican Committees and are not registered Democrat, plus any voter requested a Republican ballot in a prior primary election cycle"
+party,"Registered Party
+D DEMOCRAT
+DS DECLINE TO STATE
+GR GREEN
+PF PEACE AND FREEDOM
+NL NATURAL LAW
+R REPUBLICAN
+LI LIBERTARIAN
+AI AMERICAN INDEPENDENT
+RM REFORM
+YY OTHER"
+abrscore,"Absentee Ballot Return Score
+AE ALWAYS EARLY
+ME MOSTLY EARLY
+OE ONCE EARLY
+EL EARLY LATE
+OL ONCE LATE
+ML MOSTLY LATE
+AL ALWAYS LATE"
+hpt_n,"Household Party Contents
+A 1 DEM
+B 2+ PURE DEM
+C DEM & REP
+D DEM & REP & NP
+E DEM & REP & NP & MPL
+F DEM & REP & NP & MPL & MPC
+G DEM & REP & NP & MPC
+H DEM & REP & MPL & MPC
+I DEM & REP & MPL
+J DEM & REP & MPC
+K DEM & NP
+L DEM & NP & MPL
+M DEM & NP & MPL & MPC
+N DEM & NP & MPC
+O DEM & MPL
+P DEM & MPL & MPC
+Q DEM & MPC
+R 1 REP
+S 2+ PURE REP
+T REP & NP
+U REP & NP & MPL
+V REP & NP & MPL & MPC
+W REP & NP & MPC
+X REP & MPL
+Y REP & MPL & MPC
+Z REP & MPC
+0 1 NP
+1 2+ PURE NP
+2 NP & MPL
+3 NP & MPL & MPC
+4 NP & MPC
+5 1 MPL
+6 2+ PURE MPL
+7 MPL & MPC
+8 1 MPC
+9 2+ PURE MPC
+""NP (NON-PARTISAN) = DECLINE TO STATE, AMERICAN INDEPENDENT, MISC""
+""MPL (MINOR PARTY LIBERAL) = PEACE & FREEDOM, GREEN, NATURAL LAW""
+""MPC (MINOR PARTY CONSERVATIVE) = LIBERTARIAN, REFORM"""
+ismarried,Married
+home,Homeowner
+renters,Renter
+Hhcount,# of voters in household
